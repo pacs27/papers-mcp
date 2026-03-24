@@ -49,7 +49,7 @@ Claude already knows a lot about science, but it has limits:
 ## Installation
 
 ```bash
-git clone https://github.com/YOUR_USER/papers-mcp.git
+git clone [https://github.com/pacs27/papers-mcp.git](https://github.com/pacs27/papers-mcp.git)
 cd papers-mcp
 python3 -m venv .venv
 source .venv/bin/activate
