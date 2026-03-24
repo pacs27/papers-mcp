@@ -1,0 +1,21 @@
+# Virtual environment
+.venv/
+
+# Database
+data/*.db
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# OS
+.DS_Store
+
+# Internal docs
+guide.md
+
+# IDE
+.idea/
+.vscode/
+*.swp
